@@ -1,0 +1,11 @@
+C:\projects\Empower\migrations\bin\Debug\netcoreapp2.0\migrations.deps.json
+C:\projects\Empower\migrations\bin\Debug\netcoreapp2.0\migrations.runtimeconfig.json
+C:\projects\Empower\migrations\bin\Debug\netcoreapp2.0\migrations.runtimeconfig.dev.json
+C:\projects\Empower\migrations\bin\Debug\netcoreapp2.0\migrations.dll
+C:\projects\Empower\migrations\bin\Debug\netcoreapp2.0\migrations.pdb
+C:\projects\Empower\migrations\obj\Debug\netcoreapp2.0\migrations.csprojAssemblyReference.cache
+C:\projects\Empower\migrations\obj\Debug\netcoreapp2.0\migrations.csproj.CoreCompileInputs.cache
+C:\projects\Empower\migrations\obj\Debug\netcoreapp2.0\migrations.AssemblyInfoInputs.cache
+C:\projects\Empower\migrations\obj\Debug\netcoreapp2.0\migrations.AssemblyInfo.cs
+C:\projects\Empower\migrations\obj\Debug\netcoreapp2.0\migrations.dll
+C:\projects\Empower\migrations\obj\Debug\netcoreapp2.0\migrations.pdb
